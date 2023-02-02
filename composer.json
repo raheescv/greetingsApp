@@ -1,5 +1,5 @@
 {
-    "name": "iocod/contactform",
+    "name": "iocod/greeting",
     "description": "To get the contact information from the site",
     "authors": [{
         "name": "rahees",
@@ -8,7 +8,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Iocod\\ContactForm\\": "src/"
+            "Iocod\\Greeting\\": "src/"
         }
     }
 }
