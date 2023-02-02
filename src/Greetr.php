@@ -4,8 +4,8 @@ namespace Iocod\Greeting;
 
 class Greetr
 {
-    public function greet(String $sName)
+    public function greet(String $sName=null)
     {
-        return 'Hi ' . $sName . '! How are you doing today?';
+        return 'Hi ' . $sName .=null '! How are you doing today?';
     }
 }
