@@ -1,6 +1,6 @@
 {
     "name": "iocod/greeting",
-    "description": "To get the contact information from the site",
+    "description": "greeting the user by name",
     "authors": [{
         "name": "rahees",
         "email": "rahees@iocod.com"
