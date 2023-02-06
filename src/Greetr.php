@@ -6,6 +6,6 @@ class Greetr
 {
     public function greet(String $sName=null)
     {
-        return 'Hallow , ' . $sName . '! how is your day?';
+        return 'Hai , ' . $sName . '! how is your day?';
     }
 }
